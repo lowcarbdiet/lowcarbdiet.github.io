@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lowcarbdiet.github.io/sitemap.xml
